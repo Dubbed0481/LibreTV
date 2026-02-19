@@ -325,7 +325,6 @@ const API_SITES = {
     kuaiyun: {
         api: 'https://www.kuaiyunzy.com/api.php/provide/vod/',
         name: '快云|点播',
-    },
     }
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
